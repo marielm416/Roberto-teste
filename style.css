@@ -9,7 +9,9 @@ section {
     margin-top: 5px;
     background-color: rgb(255,255,182);
     width: 15%;
-    height: 20px;
+    display: flex; /* Ativa o Flexbox */
+    justify-content: space-between; /* Espaçamento entre as divs */
+    gap: 20px; /* Espaçamento entre as divs */
 }
 body{
     background-color: rgb(95, 0, 104);
