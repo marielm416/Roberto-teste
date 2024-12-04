@@ -28,5 +28,5 @@ body{
     margin-left: 5px; /* Espaçamento entre as divs, opcional */
     background-color: rgb(255, 255, 182);
     text-align: left;
-    padding: 5px;
+    padding-left: 5px;
 }
