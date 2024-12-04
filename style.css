@@ -2,8 +2,7 @@ header {
     line-height: 15px;
     text-align: center;
     background-color: rgb(255, 255, 182);
-    margin-top: 5px;
-    margin-bottom: 5px;
+    border: 5px;
 }
 section {
     margin-top: 5px;
