@@ -10,8 +10,11 @@ section {
     background-color: rgb(255,255,182);
     width: 15%;
     height: 20px;
-    display: inline-block;
 }
 body{
     background-color: rgb(95, 0, 104);
+}
+
+div {
+    display: inline-block
 }
