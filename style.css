@@ -17,12 +17,12 @@ body{
 
 .div1 {
     width: 30%;
-    margin-top: 20px;
+    margin-top: 5px;
     border: 1px solid #ccc;
     background-color: rgb(255, 255, 182);
     text-align: center;
 }
 
 .div2{
-    margin-right: 10px; /* Espaçamento entre as divs, opcional */
+    margin-left: 5px; /* Espaçamento entre as divs, opcional */
 }
