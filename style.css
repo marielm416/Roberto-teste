@@ -16,6 +16,10 @@ body{
     background-color: rgb(95, 0, 104);
 }
 
-div {
-    display: inline-block
+.div1 {
+    text-align: center;
+}
+
+.div2{
+    text-align: right;
 }
