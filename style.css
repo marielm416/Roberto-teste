@@ -6,5 +6,8 @@ header {
     margin-bottom: 5px;
 }
 section {
-
+    margin-top: 5px;
+    background-color: rgb(255,255,182);
+    width: 15%;
+    height: 20px;
 }
