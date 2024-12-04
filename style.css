@@ -19,7 +19,7 @@ body{
     flex: 1; /* Cada div ocupa o mesmo tamanho */
     padding: 20px;
     border: 1px solid #ccc;
-    background-color: #f0f0f0;
+    background-color: rgb(255, 255, 182);
     text-align: center;
 }
 
