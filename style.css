@@ -8,7 +8,6 @@ header {
 section {
     margin-top: 5px;
     background-color: rgb(255,255,182);
-    width: 15%;
     display: flex; /* Ativa o Flexbox */
     justify-content: space-between; /* Espaçamento entre as divs */
     gap: 20px; /* Espaçamento entre as divs */
